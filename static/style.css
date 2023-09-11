@@ -1,0 +1,8 @@
+.transparent-text {
+    opacity: 0.5; /* Adjust the opacity value as needed */
+}
+
+.custom-background {
+    background-image: url('https://png.pngtree.com/background/20210717/original/pngtree-cartoon-cool-professor-cv-picture-image_1447365.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
