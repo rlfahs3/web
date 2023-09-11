@@ -15,3 +15,24 @@
 .white-text{
     color: white;   /* white text */
 }
+
+.instagram-button {
+    background-color: #E4405F; /* instagram color */
+    color: white; /* Text color */
+    border: none; /* Remove the default button border */
+    /* Add more styles as needed */
+}
+
+.linkedin-button {
+    background-color: #0077B5; /* linkedin color */
+    color: white; /* Text color */
+    border: none; /* Remove the default button border */
+    /* Add more styles as needed */
+}
+
+.facebook-button {
+    background-color: #1877F2; /* facebook color */
+    color: white; /* Text color */
+    border: none; /* Remove the default button border */
+    /* Add more styles as needed */
+}

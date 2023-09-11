@@ -27,7 +27,7 @@ def read_root():
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page" href="#">Home</a>
+                      <a class="nav-link active" aria-current="page" href="http://127.0.0.1:8000/">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -37,7 +37,7 @@ def read_root():
                         <li><a class="dropdown-item" href="http://127.0.0.1:8000/website/">Website</a></li>
                         <li><a class="dropdown-item" href="http://127.0.0.1:8000/dataengineer/">Data_Engineer</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">etc</a></li>
+                        <li><a class="dropdown-item" href="https://github.com/rlfahs3/USA-COVID19-">etc</a></li>
                       </ul>
                     </li>
                   </ul>
@@ -52,8 +52,10 @@ def read_root():
                 <div class="jumbotron">
                     <h1 class="text-center white-text">RESUME</h1>
                     <p class="text-center white-text">DATA ENGINEER</p>
-                    <p class="text-center"><a href="https://www.linkedin.com/in/chanhohyun/?originalSubdomain=kr" class="btn btn-primary">LinkedIn</a>
-                    <a href="https://www.instagram.com/hch16/?hl=ko" class="btn btn-secondary">Instagram</a></p>
+                    <p class="text-center">
+                        <a href="https://www.linkedin.com/in/chanhohyun/?originalSubdomain=kr" class="btn linkedin-button">LinkedIn</a>
+                        <a href="https://www.instagram.com/hch16/?hl=ko" class="btn instagram-button">Instagram</a>
+                        <a href="https://www.facebook.com/chanho.hyun" class="btn facebook-button">FaceBook</a></p>
                 </div>
             </div>
             <div class="container">
