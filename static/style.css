@@ -3,6 +3,15 @@
 }
 
 .custom-background {
-    background-image: url('https://png.pngtree.com/background/20210717/original/pngtree-cartoon-cool-professor-cv-picture-image_1447365.jpg');
+    background-image: url('https://t4.ftcdn.net/jpg/05/69/85/01/360_F_569850167_1B0YoGHuiKa7B6WePYPPuqMP7HXimjm8.jpg');
     background-size: cover; /* Adjust as needed */
     background-repeat: no-repeat; /* Adjust as needed */
+}
+
+.custom-accordion .accordion-body {
+    background-color: #D3D3D3; /* Change to your desired color */
+}
+
+.white-text{
+    color: white;   /* white text */
+}
